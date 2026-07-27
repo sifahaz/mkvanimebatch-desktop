@@ -95,4 +95,4 @@ chmod +x MKV_Anime_Batch_0.1.0_amd64.AppImage
 
 ## 📄 License
 
-Distributed under the **MIT License**.
+Distributed under the **GNU General Public License v3.0**.
