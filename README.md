@@ -11,9 +11,9 @@ Download the latest pre-compiled standalone executable for your operating system
 
 | Operating System | Package Type | Download Link | Quick Note |
 | :--- | :--- | :--- | :--- |
-| 🪟 **Windows** | Portable `.exe` | [**Download mkv-anime-batch.exe**](https://github.com/sifahaz/mkvanimebatch-release/releases/latest) | Standalone, no installation required |
-| 🐧 **Linux** | Universal `.AppImage` | [**Download AppImage**](https://github.com/sifahaz/mkvanimebatch-release/releases/latest) | Works on all modern Linux distributions |
-| 🐧 **Linux** | Debian `.deb` | [**Download .deb Package**](https://github.com/sifahaz/mkvanimebatch-release/releases/latest) | Native install for Ubuntu / Debian / Mint |
+| 🪟 **Windows** | Portable `.exe` | [**Download mkv-anime-batch.exe**](https://github.com/sifahaz/mkvanimebatch-desktop/releases/latest) | Standalone, no installation required |
+| 🐧 **Linux** | Universal `.AppImage` | [**Download AppImage**](https://github.com/sifahaz/mkvanimebatch-desktop/releases/latest) | Works on all modern Linux distributions |
+| 🐧 **Linux** | Debian `.deb` | [**Download .deb Package**](https://github.com/sifahaz/mkvanimebatch-desktop/releases/latest) | Native install for Ubuntu / Debian / Mint |
 
 ---
 
