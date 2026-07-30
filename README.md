@@ -92,4 +92,4 @@ Subtitles are extracted and timing offsets (e.g. `+5.0s` or `-2.5s`) are applied
 
 ## License
 
-Distributed under the **MIT License**.
+Distributed under the **GNU General Public License v3.0**.
