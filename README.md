@@ -113,13 +113,6 @@ in your terminal or command prompt.
 Subtitles are extracted and timing offsets (e.g. `+5.0s` or `-2.5s`) are applied directly to `.ass`/`.srt` timestamp blocks while preserving original UTF-8 BOM encoding. Video and audio streams are preserved without re-encoding.
 </details>
 
-<details>
-<summary><b>Where is the main source code?</b></summary>
-
-The core Python library, CLI commands, test suites, and Tauri frontend source code are hosted in the main repository:  
-👉 **[github.com/sifahaz/mkvanimebatch](https://github.com/sifahaz/mkvanimebatch)**
-</details>
-
 ---
 
 ## License
