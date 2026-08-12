@@ -1,10 +1,9 @@
-# MKV Anime Batch — Desktop Release
+# MKV Anime Batch — Desktop App
 
 [![Latest Release](https://img.shields.io/github/v/release/sifahaz/mkvanimebatch-desktop?style=flat-square&color=blue)](https://github.com/sifahaz/mkvanimebatch-desktop/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](LICENSE)
-[![Source Repository](https://img.shields.io/badge/Source_Code-mkvanimebatch-purple?style=flat-square&logo=github)](https://github.com/sifahaz/mkvanimebatch)
 
-> **Official Desktop Standalone & Installer Release Repository** for [MKV Anime Batch](https://github.com/sifahaz/mkvanimebatch)  
+> **Official Desktop Standalone & Installer Release Repository**  
 > Streamline your anime collection with intelligent subtitle scoring, 10-tier audio filtering, font extraction & deduplication, timestamp offset shifting, and multi-threaded parallel remuxing powered by Tauri v2.
 
 ---
@@ -21,8 +20,6 @@ Download pre-compiled standalone executables and package installers for your ope
 | **Linux** | Debian `.deb` | [Download .deb](https://github.com/sifahaz/mkvanimebatch-desktop/releases/latest) | `MKV.Anime.Batch_1.0.0_amd64.deb` | Package for Ubuntu, Debian, and Linux Mint |
 | **Linux** | RedHat `.rpm` | [Download .rpm](https://github.com/sifahaz/mkvanimebatch-desktop/releases/latest) | `MKV.Anime.Batch-1.0.0-1.x86_64.rpm` | Package for Fedora, RHEL, CentOS, and openSUSE |
 
-> [!NOTE]
-> All desktop releases are built directly from the open-source source code at [sifahaz/mkvanimebatch](https://github.com/sifahaz/mkvanimebatch).
 
 ---
 
